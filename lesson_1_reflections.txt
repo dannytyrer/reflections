@@ -1,0 +1,33 @@
+Viewing the diff made it much easier to see the bug that was introduced as it
+could easily be compared to the previous version.
+
+Having easy access to the entire history of a file will make you a more
+efficient programmer by easily being able to spot bugs by comparing against
+the last version before the bug was introduced.
+
+Dont need to save incredibly often but often enough to be efficient.
+
+Pros of manually committing vs automatically
+- Have complete control of when you commit.
+
+Cons
+- May forget to commit
+
+Why do you think some version contorl systems, like git allkow saving multiple
+files in one commit while others like Google Docs treat eahc file seperately?
+- Because they are designed for different situations - google docs is more
+  designed for storing personal items like photos whereas git is designed as a code version control system.
+
+How can you use the commands git log and gitr diff to view the history of
+files?
+- Run git log to see all of the changes made 
+- Run diff with two commits to see the changes between the to.
+
+- Gotcha - The git log runs up the page from oldest to newest version 
+
+How might using version control make you more confident to make changes that could break something?
+- By being easily able to find what broke the software if you broke it and
+  easily being able to revert back to that change if the bug is unfixable.
+
+What do you want to use git for?
+- individual projects to showcase skills.
