@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 - The staging area is an intermediate step between the repository and the working directory
 - It is valubale in that it can act as a prototype for you7r next commit adding and removing files from it that you are planning to commit the nextr time nyou run the commit commmand.
+
+How can you use the staging area to make sure you have one commit per logical change?
+- only add the files for the next logical change when you want to commit.
+
