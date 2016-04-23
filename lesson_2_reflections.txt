@@ -16,3 +16,5 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help visualise branch structure?
 - You can see what is actually happening and where you are at any given point in time
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+- The result of merging the branches together is making the branch coherent with both streams of development i.e changes from both branches are incorporated into the same branch
