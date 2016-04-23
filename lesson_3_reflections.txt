@@ -1,2 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
 - when you have access to the internet and want to pull new changes not made by you or by you on a different computer.
+
+Describe the differences between forks, clones and branches. When would you use one instead of the other?
+- fork is a remote copy of someone elses repository on git hub.
+- clone is a local copy of either a loval repository or your own remote repository.
+- A branch is a copy intended to run alongside the master branch for experimenta purposes.
+
